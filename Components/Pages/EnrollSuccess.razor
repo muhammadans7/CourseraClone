@@ -1,0 +1,31 @@
+﻿@page "/enroll-success"
+@rendermode InteractiveServer
+@inject NavigationManager NavigationManager
+
+<h2>Enrollment Successful</h2>
+
+@if (!string.IsNullOrEmpty(successMessage))
+{
+    <p>@successMessage</p>
+}
+else
+{
+    <p>You have been successfully enrolled in the course.</p>
+}
+
+<a @onclick="RedirectToEnroll" class="btn btn-primary">Enroll in Another Course</a>
+
+@code {
+    private string successMessage;
+
+    protected override void OnInitialized()
+    {
+        // Default message
+        successMessage = "You have been successfully enrolled in the course.";
+    }
+
+    private void RedirectToEnroll()
+    {
+        NavigationManager.NavigateTo("/enroll");
+    }
+}

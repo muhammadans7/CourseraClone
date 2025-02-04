@@ -1,0 +1,266 @@
+C:\Users\ans\source\repos\courseraClone\courseraClone\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ans\source\repos\courseraClone\courseraClone\bin\Debug\net8.0\appsettings.json
+C:\Users\ans\source\repos\courseraClone\courseraClone\bin\Debug\net8.0\courseraClone.staticwebassets.runtime.json
+C:\Users\ans\source\repos\courseraClone\courseraClone\bin\Debug\net8.0\courseraClone.exe
+C:\Users\ans\source\repos\courseraClone\courseraClone\bin\Debug\net8.0\courseraClone.deps.json
+C:\Users\ans\source\repos\courseraClone\courseraClone\bin\Debug\net8.0\courseraClone.runtimeconfig.json
+C:\Users\ans\source\repos\courseraClone\courseraClone\bin\Debug\net8.0\courseraClone.dll
+C:\Users\ans\source\repos\courseraClone\courseraClone\bin\Debug\net8.0\courseraClone.pdb
+C:\Users\ans\source\repos\courseraClone\courseraClone\obj\Debug\net8.0\courseraClone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ans\source\repos\courseraClone\courseraClone\obj\Debug\net8.0\courseraClone.AssemblyInfoInputs.cache
+C:\Users\ans\source\repos\courseraClone\courseraClone\obj\Debug\net8.0\courseraClone.AssemblyInfo.cs
+C:\Users\ans\source\repos\courseraClone\courseraClone\obj\Debug\net8.0\courseraClone.csproj.CoreCompileInputs.cache
+C:\Users\ans\source\repos\courseraClone\courseraClone\obj\Debug\net8.0\courseraClone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ans\source\repos\courseraClone\courseraClone\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ans\source\repos\courseraClone\courseraClone\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ans\source\repos\courseraClone\courseraClone\obj\Debug\net8.0\staticwebassets\msbuild.courseraClone.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ans\source\repos\courseraClone\courseraClone\obj\Debug\net8.0\staticwebassets\msbuild.build.courseraClone.props
+C:\Users\ans\source\repos\courseraClone\courseraClone\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.courseraClone.props
+C:\Users\ans\source\repos\courseraClone\courseraClone\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.courseraClone.props
+C:\Users\ans\source\repos\courseraClone\courseraClone\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ans\source\repos\courseraClone\courseraClone\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\ans\source\repos\courseraClone\courseraClone\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\ans\source\repos\courseraClone\courseraClone\obj\Debug\net8.0\scopedcss\bundle\courseraClone.styles.css
+C:\Users\ans\source\repos\courseraClone\courseraClone\obj\Debug\net8.0\scopedcss\projectbundle\courseraClone.bundle.scp.css
+C:\Users\ans\source\repos\courseraClone\courseraClone\obj\Debug\net8.0\courseraClone.dll
+C:\Users\ans\source\repos\courseraClone\courseraClone\obj\Debug\net8.0\refint\courseraClone.dll
+C:\Users\ans\source\repos\courseraClone\courseraClone\obj\Debug\net8.0\courseraClone.pdb
+C:\Users\ans\source\repos\courseraClone\courseraClone\obj\Debug\net8.0\courseraClone.genruntimeconfig.cache
+C:\Users\ans\source\repos\courseraClone\courseraClone\obj\Debug\net8.0\ref\courseraClone.dll
+C:\Users\ans\source\repos\courseraClone\courseraClone\obj\Debug\net8.0\courseraClone.csproj.AssemblyReference.cache
+C:\Users\ans\source\repos\courseraClone\courseraClone\bin\Debug\net8.0\Dapper.dll
+C:\Users\ans\source\repos\courseraClone\courseraClone\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\ans\source\repos\courseraClone\courseraClone\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ans\source\repos\courseraClone\courseraClone\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\ans\source\repos\courseraClone\courseraClone\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\ans\source\repos\courseraClone\courseraClone\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ans\source\repos\courseraClone\courseraClone\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ans\source\repos\courseraClone\courseraClone\obj\Debug\net8.0\coursera.07C50FED.Up2Date
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\bin\Debug\net8.0\appsettings.json
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\bin\Debug\net8.0\courseraClone.staticwebassets.runtime.json
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\bin\Debug\net8.0\courseraClone.staticwebassets.endpoints.json
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\bin\Debug\net8.0\courseraClone.exe
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\bin\Debug\net8.0\courseraClone.deps.json
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\bin\Debug\net8.0\courseraClone.runtimeconfig.json
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\bin\Debug\net8.0\courseraClone.dll
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\bin\Debug\net8.0\courseraClone.pdb
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\bin\Debug\net8.0\Dapper.dll
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\obj\Debug\net8.0\courseraClone.csproj.AssemblyReference.cache
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\obj\Debug\net8.0\courseraClone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\obj\Debug\net8.0\courseraClone.AssemblyInfoInputs.cache
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\obj\Debug\net8.0\courseraClone.AssemblyInfo.cs
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\obj\Debug\net8.0\courseraClone.csproj.CoreCompileInputs.cache
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\obj\Debug\net8.0\courseraClone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\obj\Debug\net8.0\scopedcss\bundle\courseraClone.styles.css
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\obj\Debug\net8.0\scopedcss\projectbundle\courseraClone.bundle.scp.css
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\obj\Debug\net8.0\staticwebassets\msbuild.courseraClone.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\obj\Debug\net8.0\staticwebassets\msbuild.courseraClone.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\obj\Debug\net8.0\staticwebassets\msbuild.build.courseraClone.props
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.courseraClone.props
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.courseraClone.props
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\obj\Debug\net8.0\coursera.07C50FED.Up2Date
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\obj\Debug\net8.0\courseraClone.dll
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\obj\Debug\net8.0\refint\courseraClone.dll
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\obj\Debug\net8.0\courseraClone.pdb
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\obj\Debug\net8.0\courseraClone.genruntimeconfig.cache
+C:\Users\muham\Downloads\cs21-blazor-project-moshify-main\cs21-blazor-project-moshify-main\courseraClone\courseraClone\obj\Debug\net8.0\ref\courseraClone.dll
+C:\Users\muham\Desktop\courseraClone\bin\Debug\net8.0\appsettings.json
+C:\Users\muham\Desktop\courseraClone\bin\Debug\net8.0\courseraClone.staticwebassets.endpoints.json
+C:\Users\muham\Desktop\courseraClone\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\muham\Desktop\courseraClone\bin\Debug\net8.0\courseraClone.staticwebassets.runtime.json
+C:\Users\muham\Desktop\courseraClone\bin\Debug\net8.0\courseraClone.exe
+C:\Users\muham\Desktop\courseraClone\bin\Debug\net8.0\courseraClone.deps.json
+C:\Users\muham\Desktop\courseraClone\bin\Debug\net8.0\courseraClone.runtimeconfig.json
+C:\Users\muham\Desktop\courseraClone\bin\Debug\net8.0\courseraClone.dll
+C:\Users\muham\Desktop\courseraClone\bin\Debug\net8.0\courseraClone.pdb
+C:\Users\muham\Desktop\courseraClone\bin\Debug\net8.0\Dapper.dll
+C:\Users\muham\Desktop\courseraClone\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\muham\Desktop\courseraClone\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\muham\Desktop\courseraClone\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\muham\Desktop\courseraClone\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\muham\Desktop\courseraClone\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\muham\Desktop\courseraClone\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\muham\Desktop\courseraClone\obj\Debug\net8.0\courseraClone.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\courseraClone\obj\Debug\net8.0\courseraClone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\Desktop\courseraClone\obj\Debug\net8.0\courseraClone.AssemblyInfoInputs.cache
+C:\Users\muham\Desktop\courseraClone\obj\Debug\net8.0\courseraClone.AssemblyInfo.cs
+C:\Users\muham\Desktop\courseraClone\obj\Debug\net8.0\courseraClone.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\courseraClone\obj\Debug\net8.0\courseraClone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\muham\Desktop\courseraClone\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\muham\Desktop\courseraClone\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\muham\Desktop\courseraClone\obj\Debug\net8.0\scopedcss\bundle\courseraClone.styles.css
+C:\Users\muham\Desktop\courseraClone\obj\Debug\net8.0\scopedcss\projectbundle\courseraClone.bundle.scp.css
+C:\Users\muham\Desktop\courseraClone\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\muham\Desktop\courseraClone\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\muham\Desktop\courseraClone\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\muham\Desktop\courseraClone\obj\Debug\net8.0\staticwebassets\msbuild.courseraClone.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\muham\Desktop\courseraClone\obj\Debug\net8.0\staticwebassets\msbuild.courseraClone.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\muham\Desktop\courseraClone\obj\Debug\net8.0\staticwebassets\msbuild.build.courseraClone.props
+C:\Users\muham\Desktop\courseraClone\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.courseraClone.props
+C:\Users\muham\Desktop\courseraClone\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.courseraClone.props
+C:\Users\muham\Desktop\courseraClone\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\muham\Desktop\courseraClone\obj\Debug\net8.0\coursera.07C50FED.Up2Date
+C:\Users\muham\Desktop\courseraClone\obj\Debug\net8.0\courseraClone.dll
+C:\Users\muham\Desktop\courseraClone\obj\Debug\net8.0\refint\courseraClone.dll
+C:\Users\muham\Desktop\courseraClone\obj\Debug\net8.0\courseraClone.pdb
+C:\Users\muham\Desktop\courseraClone\obj\Debug\net8.0\courseraClone.genruntimeconfig.cache
+C:\Users\muham\Desktop\courseraClone\obj\Debug\net8.0\ref\courseraClone.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\appsettings.json
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\courseraClone.staticwebassets.endpoints.json
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\courseraClone.staticwebassets.runtime.json
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\courseraClone.exe
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\courseraClone.deps.json
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\courseraClone.runtimeconfig.json
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\courseraClone.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\courseraClone.pdb
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\Dapper.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\Humanizer.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\obj\Debug\net8.0\courseraClone.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\obj\Debug\net8.0\courseraClone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\obj\Debug\net8.0\courseraClone.AssemblyInfoInputs.cache
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\obj\Debug\net8.0\courseraClone.AssemblyInfo.cs
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\obj\Debug\net8.0\courseraClone.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\obj\Debug\net8.0\courseraClone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\obj\Debug\net8.0\scopedcss\bundle\courseraClone.styles.css
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\obj\Debug\net8.0\scopedcss\projectbundle\courseraClone.bundle.scp.css
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\obj\Debug\net8.0\staticwebassets\msbuild.courseraClone.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\obj\Debug\net8.0\staticwebassets\msbuild.courseraClone.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\obj\Debug\net8.0\staticwebassets\msbuild.build.courseraClone.props
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.courseraClone.props
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.courseraClone.props
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\obj\Debug\net8.0\coursera.07C50FED.Up2Date
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\obj\Debug\net8.0\courseraClone.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\obj\Debug\net8.0\refint\courseraClone.dll
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\obj\Debug\net8.0\courseraClone.pdb
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\obj\Debug\net8.0\courseraClone.genruntimeconfig.cache
+C:\Users\muham\Desktop\sMESTER VII\courseraClone\obj\Debug\net8.0\ref\courseraClone.dll

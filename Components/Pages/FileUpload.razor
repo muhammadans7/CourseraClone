@@ -1,0 +1,47 @@
+﻿@page "/fileupload"  
+@attribute [StreamRendering]
+@rendermode InteractiveServer
+<div class="container">
+    <h2>Upload a File</h2>
+
+    <!-- File Upload Form -->
+    <EditForm Model="@uploadModel" OnValidSubmit="HandleValidSubmit">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+
+        <div class="form-group">
+            <label for="file">Choose a file to upload</label>
+            <InputFile id="file" @bind="uploadModel.UploadedFile" class="form-control" required />
+        </div>
+
+        <button type="submit" class="btn btn-primary" disabled="@(uploadModel.UploadedFile == null)">Upload File</button>
+    </EditForm>
+
+    <div class="mt-3">
+        @if (!string.IsNullOrEmpty(responseMessage))
+        {
+            <div class="alert alert-@alertClass">@responseMessage</div>
+        }
+    </div>
+</div>
+
+@code {
+    private UploadModel uploadModel = new UploadModel();
+    private string responseMessage;
+    private string alertClass;
+
+    private void HandleValidSubmit()
+    {
+        // Simulate a successful file upload response
+        responseMessage = "File uploaded successfully!";
+        alertClass = "success";
+
+        // Resetting the file selection state
+        uploadModel = new UploadModel();
+    }
+
+    public class UploadModel
+    {
+        public IBrowserFile UploadedFile { get; set; }
+    }
+}

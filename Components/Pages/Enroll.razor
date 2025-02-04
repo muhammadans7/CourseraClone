@@ -1,0 +1,121 @@
+﻿
+
+@page "/enroll"
+@inject NavigationManager NavigationManager
+@inject courseraClone.Services.EnrollmentService EnrollmentService
+@inject IJSRuntime JSRuntime
+@using courseraClone.Models
+
+@rendermode InteractiveServer
+
+
+<h2>Enroll in a Course</h2>
+
+<EditForm Model="@enrollment" OnValidSubmit="HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <!-- User's Name -->
+    <div class="form-group">
+        <label for="name">Your Name</label>
+        <InputText @bind-Value="enrollment.Username" class="form-control" placeholder="Enter your name" required />
+        <ValidationMessage For="@(() => enrollment.Username)" />
+    </div>
+
+    <!-- User's Email -->
+    <div class="form-group">
+        <label for="email">Your Email</label>
+        <InputText @bind-Value="enrollment.Email" class="form-control" placeholder="Enter your email" readonly />
+        <ValidationMessage For="@(() => enrollment.Email)" />
+    </div>
+
+    <!-- Course Name Selection -->
+    <div class="form-group">
+        <label for="courseName">Course Name</label>
+        <InputSelect @bind-Value="enrollment.CourseName" class="form-control" required>
+            <option value="">Select a course</option>
+            @if (courses != null && courses.Count > 0)
+            {
+                @foreach (var course in courses)
+                {
+                    <option value="@course.CourseName">@course.CourseName</option>
+                }
+            }
+            else
+            {
+                <option disabled>No courses available</option>
+            }
+        </InputSelect>
+        <ValidationMessage For="@(() => enrollment.CourseName)" />
+    </div>
+
+    <!-- Submit Button -->
+    <button type="submit" class="btn btn-primary">Enroll</button>
+</EditForm>
+
+
+
+@code {
+
+    private Enrollment enrollment = new Enrollment();
+    private List<Course> courses = new List<Course>();
+
+
+    private bool isEmailSet = false;
+
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        
+        courses = await EnrollmentService.GetCoursesAsync();
+    }
+
+
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            
+            var storedEmail = await JSRuntime.InvokeAsync<string>("sessionStorage.getItem", "userEmail");
+
+            if (!string.IsNullOrEmpty(storedEmail) && !isEmailSet)
+            {
+                enrollment.Email = storedEmail; 
+                isEmailSet = true;
+
+               
+                StateHasChanged();
+            }
+        }
+    }
+
+    private async Task HandleValidSubmit()
+    {
+        
+       
+        var result = await EnrollmentService.EnrollUserAsync(enrollment.Email, enrollment.Username, enrollment.CourseName);
+
+        if (result)
+        {
+            
+            NavigationManager.NavigateTo("/enroll-success");
+        }
+        else
+        {
+      
+            await JSRuntime.InvokeVoidAsync("alert", "You are already enrolled in this course.");
+            NavigationManager.NavigateTo("/enroll-fail");
+        }
+    }
+
+    public class Enrollment
+    {
+        public string Username { get; set; } = string.Empty;
+        public string Email { get; set; } = string.Empty;
+        public string CourseName { get; set; } = string.Empty;
+    }
+
+
+}

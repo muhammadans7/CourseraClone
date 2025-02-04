@@ -1,0 +1,107 @@
+﻿@page "/dropcourse"
+@inject courseraClone.Services.EnrollmentService EnrollmentService
+@using courseraClone.Models
+@rendermode InteractiveServer
+
+<h3>Drop Courses</h3>
+
+<div class="container">
+    <EditForm Model="@viewModel" OnValidSubmit="@SearchCourses">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+
+        <div class="form-group">
+            <label for="email">Email:</label>
+            <InputText id="email" @bind-Value="@viewModel.Email" class="form-control" required />
+        </div>
+
+        <button type="submit" class="btn btn-primary mt-2">Search</button>
+    </EditForm>
+
+    @if (viewModel.Courses != null && viewModel.Courses.Any())
+    {
+        <h4>Enrolled Courses:</h4>
+        <ul class="list-group">
+            @foreach (var course in viewModel.Courses)
+            {
+                <li class="list-group-item d-flex justify-content-between align-items-center">
+                    @course.CourseName
+                    <button class="btn btn-danger btn-sm" @onclick="() => DropCourse(course.CourseName)">Drop</button>
+                </li>
+            }
+        </ul>
+    }
+    else if (viewModel.Courses != null)
+    {
+        <p>No courses found for the given email.</p>
+    }
+
+    @if (!string.IsNullOrEmpty(ErrorMessage))
+    {
+        <div class="alert alert-danger mt-3">@ErrorMessage</div>
+    }
+    @if (!string.IsNullOrEmpty(SuccessMessage))
+    {
+        <div class="alert alert-success mt-3">@SuccessMessage</div>
+    }
+</div>
+
+@code {
+    private DropCoursesViewModel viewModel = new DropCoursesViewModel();
+    private string ErrorMessage = string.Empty;
+    private string SuccessMessage = string.Empty;
+
+    private async Task SearchCourses()
+    {
+        try
+        {
+            viewModel.Courses = await EnrollmentService.GetCoursesByEmailAsync(viewModel.Email);
+
+            if (!viewModel.Courses.Any())
+            {
+                ErrorMessage = "No courses found for the given email.";
+                SuccessMessage = string.Empty;
+            }
+            else
+            {
+                SuccessMessage = "Courses found!";
+                ErrorMessage = string.Empty;
+            }
+        }
+        catch (Exception ex)
+        {
+            ErrorMessage = $"An error occurred: {ex.Message}";
+            SuccessMessage = string.Empty;
+        }
+    }
+
+    private async Task DropCourse(string courseName)
+    {
+        try
+        {
+            bool result = await EnrollmentService.DropCourseAsync(viewModel.Email, courseName);
+            if (result)
+            {
+                viewModel.Courses.RemoveAll(c => c.CourseName == courseName);
+                SuccessMessage = $"Successfully dropped the course: {courseName}.";
+                ErrorMessage = string.Empty;
+            }
+            else
+            {
+                ErrorMessage = $"Failed to drop the course: {courseName}.";
+                SuccessMessage = string.Empty;
+            }
+        }
+        catch (Exception ex)
+        {
+            ErrorMessage = $"An error occurred: {ex.Message}";
+            SuccessMessage = string.Empty;
+        }
+    }
+
+    private class DropCoursesViewModel
+    {
+        public string Email { get; set; }
+        public List<Course> Courses { get; set; } = new List<Course>();
+    }
+}

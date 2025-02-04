@@ -1,0 +1,82 @@
+﻿@page "/login"
+@rendermode InteractiveServer
+@inject NavigationManager NavigationManager
+@inject courseraClone.Services.UserService userService
+@inject courseraClone.Services.AccountService accountService
+@inject IJSRuntime JSRuntime
+
+<h1>Login</h1>
+
+@if (!string.IsNullOrEmpty(UserEmail))
+{
+    <div class="alert alert-success">
+        Welcome back, @UserEmail!
+    </div>
+}
+
+<div class="row">
+    <div class="col-md-12">
+        <EditForm Model="@loginModel" OnValidSubmit="HandleValidSubmit">
+            <DataAnnotationsValidator />
+            <ValidationSummary />
+
+            <div class="form-group">
+                <label>Email</label>
+                <InputText @bind-Value="loginModel.Email" class="form-control" />
+                <ValidationMessage For="@(() => loginModel.Email)" />
+            </div>
+
+            <div class="form-group">
+                <label>Password</label>
+                <InputText @bind-Value="loginModel.Password" type="password" class="form-control" />
+                <ValidationMessage For="@(() => loginModel.Password)" />
+            </div>
+
+            <div class="form-group">
+                <div class="custom-control custom-checkbox">
+                    <InputCheckbox @bind-Value="loginModel.RememberMe" class="custom-control-input" />
+                    <label class="custom-control-label">Remember Me</label>
+                </div>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Login</button>
+        </EditForm>
+    </div>
+</div>
+
+@code {
+    private LoginViewModel loginModel = new LoginViewModel();
+    private string? UserEmail { get; set; }
+
+    private async Task HandleValidSubmit()
+    {
+        // Call UserService to validate user credentials
+        @* var result = await userService.ValidateUserAsync(loginModel.Email, loginModel.Password); *@
+
+        var result = await accountService.LoginUserAsync(loginModel.Email, loginModel.Password , loginModel.RememberMe);
+
+        if (result)
+        {
+            // Store email in session storage
+            await JSRuntime.InvokeVoidAsync("sessionStorage.setItem", "userEmail", loginModel.Email);
+
+            // Update local state and navigate to enroll page
+            UserEmail = loginModel.Email;
+            NavigationManager.NavigateTo("/enroll");
+        }
+        else
+        {
+            // Show login failed message
+            UserEmail = null;
+        }
+    }
+
+    public class LoginViewModel
+    {
+        public string Email { get; set; } = string.Empty;
+        public string Password { get; set; } = string.Empty;
+        public bool RememberMe { get; set; }
+    }
+
+    
+}

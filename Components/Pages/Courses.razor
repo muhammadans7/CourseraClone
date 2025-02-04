@@ -1,0 +1,47 @@
+﻿@page "/courses"
+@inject courseraClone.Services.CourseService CourseService
+@using courseraClone.Models // Add this
+@rendermode InteractiveServer
+
+<div class="container mt-5">
+    <h2>Available Courses</h2>
+
+    <!-- Button to fetch courses -->
+    <button @onclick="FetchCourses" class="btn btn-primary mb-3">Fetch Courses</button>
+
+    <!-- Div to display the list of courses fetched -->
+    <div id="coursesList">
+        @if (courses != null && courses.Any())
+        {
+            <ul class="list-group">
+                @foreach (var course in courses)
+                {
+                    <li class="list-group-item">@course.CourseName</li>
+                }
+            </ul>
+        }
+        else if (isFetching)
+        {
+            <p>Loading courses...</p>
+        }
+        else
+        {
+            <p>No courses available.</p>
+        }
+    </div>
+</div>
+
+@code {
+    private List<Course> courses = new List<Course>();
+    private bool isFetching = false;
+
+    private async Task FetchCourses()
+    {
+        isFetching = true;
+
+     
+        courses = await CourseService.GetAllCoursesAsync();
+
+        isFetching = false;
+    }
+}

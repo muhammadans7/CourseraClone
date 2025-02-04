@@ -1,0 +1,25 @@
+﻿@page "/"
+@rendermode InteractiveServer
+@* Define the page title in Blazor Server *@
+<h1>@Title</h1>
+
+<div class="jumbotron text-center">
+    <h1>Welcome to Coursera</h1>
+    <p>Your go-to platform for online courses!</p>
+    <p>
+        <a href="signup" class="btn btn-primary btn-lg">Sign Up</a>
+        <a href="login" class="btn btn-secondary btn-lg">Login</a>
+    </p>
+</div>
+
+@code {
+    private string Title { get; set; } = "Home Page";
+    private string? UserEmail { get; set; }
+
+    protected override Task OnInitializedAsync()
+    {
+        // Example placeholder for session data or other initializations
+        UserEmail = "user@example.com";
+        return Task.CompletedTask;
+    }
+}
